@@ -1,5 +1,5 @@
 # Cloudformation-Concepts
-AWS CloudFormation is a tool to write the Infrastructure as a Code(IaC). Any kind of AWS resources such as VPCs, EC2, S3, RDS or any other kind of resources can be created using AWS CloudFormation. We can define any AWS resource in a JSON or a YANL file.
+AWS CloudFormation is a tool to write the Infrastructure as a Code(IaC). Any kind of AWS resources such as VPCs, EC2, S3, RDS or any other kind of resources can be created using AWS CloudFormation. We can define any AWS resource in a JSON or a YAML file.
 
 This has a lot of advantages such as:
 
